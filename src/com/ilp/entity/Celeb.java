@@ -23,7 +23,7 @@ public void setName(String name) {
 }
 
 public void display() {
-	System.out.println(this.name + this.celebId);
+	System.out.println(  this.celebId + this.name);
 }
 
  

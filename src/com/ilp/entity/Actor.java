@@ -22,10 +22,10 @@ public class Actor extends Celeb implements ActorRemuneration,Celebrity {
 	@Override
 	public void displayRemuneration() {
 		 
-		  System.out.println("Actor Remuneration");
+		  System.out.println("Actor Remuneration : 2 lakhs per day");
 	 }
 	@Override
 	public void displayDateOfBirth() {
-		System.out.println("Date Of Birth");
+		System.out.println("Date Of Birth : 22/11/1987");
 	}
 }

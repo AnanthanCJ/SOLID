@@ -41,7 +41,7 @@ public class Main {
                     break;
             }
 
-            System.out.print("Enter your choice (y/n): ");
+            System.out.print("Do you want to continue? (y/n): ");
 
             mainChoice = scanner.next();
 
